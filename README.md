@@ -1,2 +1,7 @@
 # hello-world
-just practice
+
+Hello Humans,
+
+I like noodles and javascript.
+
+Thanks
